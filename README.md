@@ -27,6 +27,7 @@
 <h3 align="left">Platforms I'm on:</h3>
 <p align="left"> 
     <a href="https://exercism.io/profiles/The-F00L" target="_blank"> 
+        whz not work
         <span class="iconify icon:cib:exercism icon-inline:false"></span>
     </a> 
     <a href="https://www.codingame.com/profile/c3ad409415a528dc38727d1281d342b87972593" target="_blank"> 
