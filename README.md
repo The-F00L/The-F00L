@@ -35,9 +35,6 @@
     <a href="https://tryhackme.com/p/TheF00L" target="_blank"> 
         <img src="tryhackme.svg" wieght="40" height="40">
     </a> 
-    <a href="https://www.hackthebox.eu/home/users/profile/201213" target="_blank"> 
-        <img src="hackthebox.svg" wieght="40" height="40">
-    </a> 
     <a href="https://www.codewars.com/users/The-F00L" target="_blank"> 
          <img src="codewars.svg" wieght="40" height="40">
     </a> 
