@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **The-F00L/The-F00L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Last update: 2021.feb.04. -->
