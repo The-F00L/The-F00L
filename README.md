@@ -1,10 +1,10 @@
 <!--
 **The-F00L/The-F00L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- Last update: 2021.feb.04. -->
+<!-- Last update: 2022.aug.30. -->
 <h1 align="center">Hi 👋, I'm The F00L</h1>
 <h3 align="center">Computer enthusiast from Hungary</h3>
 
-![Programming Gif](https://raw.githubusercontent.com/The-F00L/The-F00L/main/typing_gif.gif)
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/The-F00L/The-F00L/main/typing_gif.gif">
 
 - 📈 Check out my personal progress tracking site **https://thef00l.vercel.app/**
 
