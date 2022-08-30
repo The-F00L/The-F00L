@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm The F00L</h1>
 <h3 align="center">Computer enthusiast from Hungary</h3>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv">
+![Programming Gif](https://raw.githubusercontent.com/The-F00L/The-F00L/main/typing_gif.gif)
 
 - 📈 Check out my personal progress tracking site **https://thef00l.vercel.app/**
 
