@@ -14,7 +14,10 @@
 
 - ⚡ Fun fact **CTF player 👨‍💻**
 
-<p><img align="right" src="https://streak-stats.demolab.com/?user=the-f00l" alt="the-f00l" /></p>
+<p>
+  [https://streak-stats.demolab.com/?user=the-f00l](https://streak-stats.demolab.com/?user=the-f00l)
+  <img align="right" src="https://streak-stats.demolab.com/?user=the-f00l" alt="the-f00l" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
