@@ -15,7 +15,7 @@
 - ⚡ Fun fact **CTF player 👨‍💻**
 
 <p>
-  [https://streak-stats.demolab.com/?user=the-f00l](https://streak-stats.demolab.com/?user=the-f00l)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=the-f00l)](https://git.io/streak-stats)
   <img align="right" src="https://streak-stats.demolab.com/?user=the-f00l" alt="the-f00l" />
 </p>
 
