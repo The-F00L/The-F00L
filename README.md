@@ -17,7 +17,10 @@
 <p>
   [![GitHub Streak](https://streak-stats.demolab.com?user=the-f00l)](https://git.io/streak-stats)
   <img align="right" src="https://streak-stats.demolab.com/?user=the-f00l" alt="the-f00l" />
+  <a align="right" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=the-f00l"/></a>
 </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
