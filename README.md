@@ -6,9 +6,9 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/The-F00L/The-F00L/main/typing_gif.gif">
 
-- 📈 Check out my personal progress tracking site **https://thef00l.vercel.app/**
+- 📈 Check out [my gallery](https://the-f00l.github.io/) (old one [here](https://thef00l.vercel.app/))
 
-- 📫 How to reach me **thezero.thef00l@gmail.com**
+- 📫 How to reach me: **thezero.thef00l@gmail.com**
 
 - 📝 I regularly write articles on **https://the-f00l.github.io/blog/**
 
